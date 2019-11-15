@@ -1,0 +1,15 @@
+.login-register{
+    background: #052e63;
+}
+.site-title {
+    text-align: center;
+    font-weight: 700;
+    border: 1px solid #398bf7;
+    padding: 10px;
+}
+label.error{
+    color: #f00;
+}
+input.error{
+    background-image: linear-gradient(#ff0000, #ff0000), linear-gradient(#e9edf2, #e9edf2) !important;
+}
